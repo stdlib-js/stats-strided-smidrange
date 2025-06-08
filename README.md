@@ -307,7 +307,7 @@ int main( void ) {
 
 -   <span class="package-name">[`@stdlib/stats-strided/dmidrange`][@stdlib/stats/strided/dmidrange]</span><span class="delimiter">: </span><span class="description">calculate the mid-range of a double-precision floating-point strided array.</span>
 -   <span class="package-name">[`@stdlib/stats-strided/smax`][@stdlib/stats/strided/smax]</span><span class="delimiter">: </span><span class="description">calculate the maximum value of a single-precision floating-point strided array.</span>
--   <span class="package-name">[`@stdlib/stats-base/smean`][@stdlib/stats/base/smean]</span><span class="delimiter">: </span><span class="description">calculate the arithmetic mean of a single-precision floating-point strided array.</span>
+-   <span class="package-name">[`@stdlib/stats-strided/smean`][@stdlib/stats/strided/smean]</span><span class="delimiter">: </span><span class="description">calculate the arithmetic mean of a single-precision floating-point strided array.</span>
 -   <span class="package-name">[`@stdlib/stats-strided/smin`][@stdlib/stats/strided/smin]</span><span class="delimiter">: </span><span class="description">calculate the minimum value of a single-precision floating-point strided array.</span>
 -   <span class="package-name">[`@stdlib/stats-strided/srange`][@stdlib/stats/strided/srange]</span><span class="delimiter">: </span><span class="description">calculate the range of a single-precision floating-point strided array.</span>
 
@@ -399,7 +399,7 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 
 [@stdlib/stats/strided/smax]: https://github.com/stdlib-js/stats-strided-smax
 
-[@stdlib/stats/base/smean]: https://github.com/stdlib-js/stats-base-smean
+[@stdlib/stats/strided/smean]: https://github.com/stdlib-js/stats-strided-smean
 
 [@stdlib/stats/strided/smin]: https://github.com/stdlib-js/stats-strided-smin
 
